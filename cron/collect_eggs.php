@@ -1,3 +1,4 @@
+//this cron is used to collect eggs
 <?php
 
 include __DIR__.'/vendor/autoload.php';
